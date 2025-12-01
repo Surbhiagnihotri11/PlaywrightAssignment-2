@@ -1,0 +1,24 @@
+{
+  "newUser": {
+    "firstName": "Sachin",
+    "lastName": "User",
+    "address": "123 Test St",
+    "city": "TestCity",
+    "state": "CA",
+    "zipCode": "90001",
+    "phone": "9876543210",
+    "ssn": "123-45-6789",
+    "username": "Sachin",
+    "password": "King@2123"
+  },
+  "payee": {
+    "name": "Power Company",
+    "address": "1 Energy St",
+    "city": "VoltCity",
+    "state": "CA",
+    "zip": "90002",
+    "phone": "9999999999",
+    "account": "111222",
+    "amount": "50"
+  }
+}
